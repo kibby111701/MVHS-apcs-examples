@@ -1,7 +1,7 @@
 public class Git {
 
     public static void main(String[] args) {
-        System.out.println("Hey does this work?")
+        System.out.println("Hey does this work?");
     }
 
 }
